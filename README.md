@@ -1,10 +1,10 @@
 # PixelCamera
 
-PixelCamera is a Unity3D script which was inspired by Ryan Nielson's excellent [PixelCamera2D](https://github.com/RyanNielson/PixelCamera2D). It aims to improved the render quality of pixel art in Unity3D. It does so by rendering to a low resolution render texture. Instead of drawing this render texture to a quad, the render texture is blitted directly to the output of a second camera. It also supports custom upscaling shaders. 2 example open source shaders are included under their respective licenses.
+PixelCamera is a Unity3D script which was inspired by Ryan Nielson's excellent [PixelCamera2D](https://github.com/RyanNielson/PixelCamera2D). It aims to improved the render quality of pixel art in Unity3D. It does so by rendering to a low resolution render texture. Instead of drawing this render texture to a quad, the render texture is blitted directly to the output of a second camera. It also supports custom upscaling shaders. Two example open source shaders are included under their respective licenses.
 
-## Screencapture
+## Screenshot
 
-![Screencapture](https://github.com/ekx/PixelCamera/blob/master/Screenshots/Screenshot1.png)
+![Screenshot](https://github.com/ekx/PixelCamera/blob/master/Screenshots/Screenshot1.png)
 
 ## License
 
@@ -20,10 +20,10 @@ For a basic setup see the included "Example.unity" scene.
 
 ## Acknowledgements
 
-CRT Shader - (CC BY-NC-SA 3.0) - [Mattias](https://www.shadertoy.com/view/Ms23DR)
-Nearest Neighbour Shader - (MIT) - [jimbo1qaz](http://board.byuu.org/phpbb3/viewtopic.php?f=8&t=523#p11297)
-Example Image - (CC0) - [Buch](http://opengameart.org/content/the-field-of-the-floating-islands)
-Font - (CC0) - [Kenney](http://kenney.nl/assets/kenney-fonts)
+* CRT Shader - (CC BY-NC-SA 3.0) - [Mattias](https://www.shadertoy.com/view/Ms23DR)
+* Nearest Neighbour Shader - (MIT) - [jimbo1qaz](http://board.byuu.org/phpbb3/viewtopic.php?f=8&t=523#p11297)
+* Example Image - (CC0) - [Buch](http://opengameart.org/content/the-field-of-the-floating-islands)
+* Font - (CC0) - [Kenney](http://kenney.nl/assets/kenney-fonts)
 
 ## Contributing
 
